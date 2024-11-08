@@ -1,0 +1,6 @@
+name = "fastapi"
+compatibility_date = "2024-04-02"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = "AWSrAAIjcDExYWQ2ZTM2NDA1NDk0NDhiYTFhMzUyM2JmZjg4ZTNlOHAxMA"
+UPSTASH_REDIS_REST_URL = "https://verified-buzzard-25771.upstash.io"
